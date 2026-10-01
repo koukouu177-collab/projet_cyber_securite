@@ -1,0 +1,12 @@
+# ADMIN_REMOTE - Requirements
+# Créé par les hacker_tchadien
+
+# Requêtes HTTP
+requests>=2.28.0
+
+# Terminal coloré
+colorama>=0.4.6
+
+# Utilitaires
+psutil>=5.9.0
+pillow>=9.0.0
